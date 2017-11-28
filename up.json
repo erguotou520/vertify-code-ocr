@@ -1,0 +1,7 @@
+{
+  "name": "vertify-code-ocr",
+  "profile": "vertify-code-ocr",
+  "lambda": {
+    "memory": 512
+  }
+}
